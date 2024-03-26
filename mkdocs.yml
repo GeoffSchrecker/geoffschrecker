@@ -1,14 +1,8 @@
-site_name: Sparrowpit Methodist Church
+site_name: Geoff Schrecker's Website
 theme:
   name: material
 nav:
   - Home: index.md
-  - History: history.md
-  - Traditions: traditions.md
-  - Find Us: find.md
-  - Pictures of Sparrowpit: pictures.md 
-  - Safeguarding: safeguarding.md
-  - Fair Processing: fairprocessing.md
   - MkDocs: mkdocs.md
 
 markdown_extensions:
