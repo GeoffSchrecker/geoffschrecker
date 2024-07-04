@@ -18,5 +18,5 @@ For full documentation visit [mkdocs.org](https://www.mkdocs.org).
 
 ## Cheat Sheets
 
-1) [MkDocs Docmark - Cheat sheet](https://yakworks.github.io/docmark/cheat-sheet/)
-2) [Common Marks Refernce](https://commonmark.org/help/)
+* [MkDocs Docmark - Cheat sheet](https://yakworks.github.io/docmark/cheat-sheet/)
+* [Common Marks Refernce](https://commonmark.org/help/)
