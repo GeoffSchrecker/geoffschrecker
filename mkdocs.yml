@@ -4,7 +4,7 @@ theme:
 nav:
   - Home: index.md
   - Walks:
-      - Grindleford to Froggat Loop: Grindleford1.md
+      - Grindleford to Calver Loop: Grindleford1.md
   - MkDocs: mkdocs.md
 
 markdown_extensions:
