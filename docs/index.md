@@ -8,6 +8,10 @@ It will probably be a slow burner as I also intend to spend more time volunteeri
 
 So far I have got it started, using [Visual Studio Code](https://code.visualstudio.com){target=_blank} and [Material for MkDocs](https://squidfunk.github.io/mkdocs-material/)
 
+Oh the weather outside is:
+
+<a href="https://app.weathercloud.net/d0070021775"><img src="https://app.weathercloud.net/device/sticker/0070021775"></a>
+
 For now, here's a lamb licking its nose:
 
 ![Lamb licking its nose](images/Lamb.jpeg)
