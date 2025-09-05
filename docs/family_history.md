@@ -13,6 +13,14 @@ There are a couple of ways to access the British Newspaper Archives:
 
 2. Sign up to [Find My Past](https://www.findmypast.co.uk/) and you will get BNA access included with your subscription
 
+##Local History Resources - Sheffield
+
+###[Sheffield Archives](https://www.sheffield.gov.uk/libraries-archives/access-archives-local-studies-library)
+
+##Local History Resources - Derbyshire
+
+###[Derbyshire Record Office](https://www.derbyshire.gov.uk/leisure/record-office/derbyshire-record-office.aspx)
+
 
 ##Jewish Genealogy
 
