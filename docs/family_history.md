@@ -7,19 +7,26 @@ The General Register Office offer a service to buy a digital image of a birth or
 
 ###British Newspaper Archives (BNA)
 The BNA contains scanned copies of thousands of old newsppers from around the country (including Ireland)
-There are a couple of ways to access the British Newspaper Archives:
+There are a few of ways to access the British Newspaper Archives:
 
 1. Go to the [BNA website](https://www.britishnewspaperarchive.co.uk/) and subscribe directly.
 
 2. Sign up to [Find My Past](https://www.findmypast.co.uk/) and you will get BNA access included with your subscription
 
+3. Use the free access in your local library
+
 ##Local History Resources - Sheffield
 
 ###[Sheffield Archives](https://www.sheffield.gov.uk/libraries-archives/access-archives-local-studies-library)
+The Sheffield Local History Library housed in the Central Library has loads of resources about Sheffield which are fascinating for any local family historians. The staff there are always very interested and helpful as well.
+In addition there are Family History computer terminals in all local libraries which can be booked for free access to Find My Past, Ancestry.com and the British Newspaper Archive.
+The link above shows all the services available and ahas a section of help for Family Historians
 
 ##Local History Resources - Derbyshire
 
 ###[Derbyshire Record Office](https://www.derbyshire.gov.uk/leisure/record-office/derbyshire-record-office.aspx)
+The Derbyshire Parish Records held at the Record Office in Matlock are available online at Ancestry.co.uk, but there are lots of other records at the record office. Their cataolgue is avaiable online (from the link above) and is searchable by name.
+As with Sheffield the staff there are brilliant.
 
 
 ##Jewish Genealogy
