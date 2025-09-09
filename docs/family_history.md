@@ -2,8 +2,13 @@
 
 ##British Records
 
-###[General Register Office Digital Images](https://www.gro.gov.uk/gro/content/certificates/images/CGOVPublicBeta.pdf)
-The General Register Office offer a service to buy a digital image of a birth or death registration certificate for only £3 (unfortunately this service doesn't include marriages). the link is to a document which explains how to use the service.
+###General Register Office
+
+1. [General Register Office Digital Images](https://www.gro.gov.uk/gro/content/certificates/images/CGOVPublicBeta.pdf)
+The General Register Office offer a service to buy a digital image of a birth or death registration certificate for only £3 (unfortunately this service doesn't include marriages). the link is to a document which explains how to use the service. It has slight limitations in that it is simply an image of the line in the register and does not include the headings (though these are standard, so not really necessary)
+
+2. [General Register Office Certificates](https://www.gro.gov.uk/gro/content/certificates/login.asp)
+If you apply for the certificate you can either get an official copy of the entry, or a pdf (for births and deaths) which is cheaper.
 
 ###British Newspaper Archives (BNA)
 The BNA contains scanned copies of thousands of old newsppers from around the country (including Ireland)
