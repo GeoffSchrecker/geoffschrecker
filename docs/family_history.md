@@ -27,6 +27,8 @@ The Sheffield Local History Library housed in the Central Library has loads of r
 In addition there are Family History computer terminals in all local libraries which can be booked for free access to Find My Past, Ancestry.com and the British Newspaper Archive.
 The link above shows all the services available and ahas a section of help for Family Historians
 
+#### [Public House Research](https://www.sheffield.gov.uk/libraries-archives/access-archives-local-studies-library/research-guides/public-houses-research-guide)
+
 ##Local History Resources - Derbyshire
 
 ###[Derbyshire Record Office](https://www.derbyshire.gov.uk/leisure/record-office/derbyshire-record-office.aspx)
@@ -40,3 +42,5 @@ As with Sheffield the staff there are brilliant.
 Jewish Genealogy Portal is a Facebook group supporting people researching their Jewish roots. There are over 80,000 members who will help with all sorts of queries from help with transcription and translation of languages including russian, Hebrew and Yiddish, as well as helping find sources and documents. They are a hugely friendly and supportive group.
 
 
+## Useful offers
+Max Spielman at Asda Annual subscription for so many photos per month.
