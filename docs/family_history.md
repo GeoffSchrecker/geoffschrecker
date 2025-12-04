@@ -20,6 +20,14 @@ There are a few of ways to access the British Newspaper Archives:
 
 3. Use the free access in your local library
 
+###[The National Archives](https://www.nationalarchives.gov.uk)
+The National Archives based in Kew, South West London, hold a large range of records as well as having indewes of a lot of records held in local archives. They also have a lot of useful research resources.
+####[Research guides Index](https://www.nationalarchives.gov.uk/help-with-your-research/)
+####[Research guides on reading old documents](https://www.nationalarchives.gov.uk/help-with-your-research/reading-old-documents/)
+####[Research Guide for WW2 Army operations (including War Diaries)](https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/british-army-operations-second-world-war/)
+####[Research Guide for WW2 Naval operations (including War Diaries)](https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/royal-navy-operations-second-world-war/)
+
+
 ##Local History Resources - Sheffield
 
 ###[Sheffield Archives](https://www.sheffield.gov.uk/libraries-archives/access-archives-local-studies-library)
@@ -27,7 +35,10 @@ The Sheffield Local History Library housed in the Central Library has loads of r
 In addition there are Family History computer terminals in all local libraries which can be booked for free access to Find My Past, Ancestry.com and the British Newspaper Archive.
 The link above shows all the services available and ahas a section of help for Family Historians
 
-#### [Public House Research](https://www.sheffield.gov.uk/libraries-archives/access-archives-local-studies-library/research-guides/public-houses-research-guide)
+####[Public House Research](https://www.sheffield.gov.uk/libraries-archives/access-archives-local-studies-library/research-guides/public-houses-research-guide)
+
+###[Sheffield Indexers](https://www.sheffieldindexers.com)
+The Sheffield Indexers is a free independently run site where volunteers transcribe various resources, for examle parish and school registers.
 
 ##Local History Resources - Derbyshire
 
